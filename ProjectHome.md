@@ -1,0 +1,1 @@
+To address certain issues when compiling polish format map with mkgmap(http://www.mkgmap.org.uk/)
